@@ -1,0 +1,8 @@
+D:\C# Assignment'\SortLINQOperator\bin\Debug\SortLINQOperator.exe.config
+D:\C# Assignment'\SortLINQOperator\bin\Debug\SortLINQOperator.exe
+D:\C# Assignment'\SortLINQOperator\bin\Debug\SortLINQOperator.pdb
+D:\C# Assignment'\SortLINQOperator\obj\Debug\SortLINQOperator.csproj.AssemblyReference.cache
+D:\C# Assignment'\SortLINQOperator\obj\Debug\SortLINQOperator.csproj.SuggestedBindingRedirects.cache
+D:\C# Assignment'\SortLINQOperator\obj\Debug\SortLINQOperator.csproj.CoreCompileInputs.cache
+D:\C# Assignment'\SortLINQOperator\obj\Debug\SortLINQOperator.exe
+D:\C# Assignment'\SortLINQOperator\obj\Debug\SortLINQOperator.pdb

@@ -1,0 +1,8 @@
+D:\C# Assignment'\ThenByOperator\bin\Debug\ThenByOperator.exe.config
+D:\C# Assignment'\ThenByOperator\bin\Debug\ThenByOperator.exe
+D:\C# Assignment'\ThenByOperator\bin\Debug\ThenByOperator.pdb
+D:\C# Assignment'\ThenByOperator\obj\Debug\ThenByOperator.csproj.AssemblyReference.cache
+D:\C# Assignment'\ThenByOperator\obj\Debug\ThenByOperator.csproj.SuggestedBindingRedirects.cache
+D:\C# Assignment'\ThenByOperator\obj\Debug\ThenByOperator.csproj.CoreCompileInputs.cache
+D:\C# Assignment'\ThenByOperator\obj\Debug\ThenByOperator.exe
+D:\C# Assignment'\ThenByOperator\obj\Debug\ThenByOperator.pdb

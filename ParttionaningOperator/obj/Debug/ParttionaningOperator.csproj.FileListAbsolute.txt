@@ -1,0 +1,8 @@
+D:\C# Assignment'\ParttionaningOperator\bin\Debug\ParttionaningOperator.exe.config
+D:\C# Assignment'\ParttionaningOperator\bin\Debug\ParttionaningOperator.exe
+D:\C# Assignment'\ParttionaningOperator\bin\Debug\ParttionaningOperator.pdb
+D:\C# Assignment'\ParttionaningOperator\obj\Debug\ParttionaningOperator.csproj.AssemblyReference.cache
+D:\C# Assignment'\ParttionaningOperator\obj\Debug\ParttionaningOperator.csproj.SuggestedBindingRedirects.cache
+D:\C# Assignment'\ParttionaningOperator\obj\Debug\ParttionaningOperator.csproj.CoreCompileInputs.cache
+D:\C# Assignment'\ParttionaningOperator\obj\Debug\ParttionaningOperator.exe
+D:\C# Assignment'\ParttionaningOperator\obj\Debug\ParttionaningOperator.pdb

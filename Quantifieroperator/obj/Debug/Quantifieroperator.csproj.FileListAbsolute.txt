@@ -1,0 +1,8 @@
+D:\C# Assignment'\Quantifieroperator\bin\Debug\Quantifieroperator.exe.config
+D:\C# Assignment'\Quantifieroperator\bin\Debug\Quantifieroperator.exe
+D:\C# Assignment'\Quantifieroperator\bin\Debug\Quantifieroperator.pdb
+D:\C# Assignment'\Quantifieroperator\obj\Debug\Quantifieroperator.csproj.AssemblyReference.cache
+D:\C# Assignment'\Quantifieroperator\obj\Debug\Quantifieroperator.csproj.SuggestedBindingRedirects.cache
+D:\C# Assignment'\Quantifieroperator\obj\Debug\Quantifieroperator.csproj.CoreCompileInputs.cache
+D:\C# Assignment'\Quantifieroperator\obj\Debug\Quantifieroperator.exe
+D:\C# Assignment'\Quantifieroperator\obj\Debug\Quantifieroperator.pdb

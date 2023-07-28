@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELementOperation", "ELementOperation.csproj", "{A1909E59-9D8F-41E6-87ED-9AC5D38C5DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1909E59-9D8F-41E6-87ED-9AC5D38C5DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1909E59-9D8F-41E6-87ED-9AC5D38C5DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1909E59-9D8F-41E6-87ED-9AC5D38C5DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1909E59-9D8F-41E6-87ED-9AC5D38C5DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCCB2CAD-B4C8-4763-AE57-5D5DB4C2E54F}
+	EndGlobalSection
+EndGlobal

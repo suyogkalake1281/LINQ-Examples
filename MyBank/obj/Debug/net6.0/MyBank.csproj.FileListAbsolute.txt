@@ -1,0 +1,15 @@
+D:\C# Assignment'\MyBank\bin\Debug\net6.0\MyBank.exe
+D:\C# Assignment'\MyBank\bin\Debug\net6.0\MyBank.deps.json
+D:\C# Assignment'\MyBank\bin\Debug\net6.0\MyBank.runtimeconfig.json
+D:\C# Assignment'\MyBank\bin\Debug\net6.0\MyBank.dll
+D:\C# Assignment'\MyBank\bin\Debug\net6.0\MyBank.pdb
+D:\C# Assignment'\MyBank\obj\Debug\net6.0\MyBank.csproj.AssemblyReference.cache
+D:\C# Assignment'\MyBank\obj\Debug\net6.0\MyBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assignment'\MyBank\obj\Debug\net6.0\MyBank.AssemblyInfoInputs.cache
+D:\C# Assignment'\MyBank\obj\Debug\net6.0\MyBank.AssemblyInfo.cs
+D:\C# Assignment'\MyBank\obj\Debug\net6.0\MyBank.csproj.CoreCompileInputs.cache
+D:\C# Assignment'\MyBank\obj\Debug\net6.0\MyBank.dll
+D:\C# Assignment'\MyBank\obj\Debug\net6.0\refint\MyBank.dll
+D:\C# Assignment'\MyBank\obj\Debug\net6.0\MyBank.pdb
+D:\C# Assignment'\MyBank\obj\Debug\net6.0\MyBank.genruntimeconfig.cache
+D:\C# Assignment'\MyBank\obj\Debug\net6.0\ref\MyBank.dll

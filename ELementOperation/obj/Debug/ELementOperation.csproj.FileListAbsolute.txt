@@ -1,0 +1,8 @@
+D:\C# Assignment'\ELementOperation\bin\Debug\ELementOperation.exe.config
+D:\C# Assignment'\ELementOperation\bin\Debug\ELementOperation.exe
+D:\C# Assignment'\ELementOperation\bin\Debug\ELementOperation.pdb
+D:\C# Assignment'\ELementOperation\obj\Debug\ELementOperation.csproj.AssemblyReference.cache
+D:\C# Assignment'\ELementOperation\obj\Debug\ELementOperation.csproj.SuggestedBindingRedirects.cache
+D:\C# Assignment'\ELementOperation\obj\Debug\ELementOperation.csproj.CoreCompileInputs.cache
+D:\C# Assignment'\ELementOperation\obj\Debug\ELementOperation.exe
+D:\C# Assignment'\ELementOperation\obj\Debug\ELementOperation.pdb

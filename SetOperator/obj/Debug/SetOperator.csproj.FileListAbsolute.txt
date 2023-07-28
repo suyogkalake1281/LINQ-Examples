@@ -1,0 +1,8 @@
+D:\C# Assignment'\SetOperator\bin\Debug\SetOperator.exe.config
+D:\C# Assignment'\SetOperator\bin\Debug\SetOperator.exe
+D:\C# Assignment'\SetOperator\bin\Debug\SetOperator.pdb
+D:\C# Assignment'\SetOperator\obj\Debug\SetOperator.csproj.AssemblyReference.cache
+D:\C# Assignment'\SetOperator\obj\Debug\SetOperator.csproj.SuggestedBindingRedirects.cache
+D:\C# Assignment'\SetOperator\obj\Debug\SetOperator.csproj.CoreCompileInputs.cache
+D:\C# Assignment'\SetOperator\obj\Debug\SetOperator.exe
+D:\C# Assignment'\SetOperator\obj\Debug\SetOperator.pdb
