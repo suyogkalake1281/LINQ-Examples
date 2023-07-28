@@ -25,7 +25,7 @@ namespace ELementOperation
             Console.WriteLine("------------------First & FirstOrDefault______________");
 
             var usingWhere = num.Where(x=>x>5).First();
-            var usingWher1e = num.Where(x => x > 15).FirstOrDefault();
+            var usingWher1e = num.Where(x => x > 5).FirstOrDefault();
 
 
             var usingFirst = num.First(x=>x>5);
